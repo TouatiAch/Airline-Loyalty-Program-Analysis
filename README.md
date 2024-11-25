@@ -26,7 +26,7 @@ This Power BI project analyzes the loyalty program data for an airline. It track
 2. Open the file in Power BI Desktop.
 
 ## Screenshots
-*(Include screenshots of key visuals from your dashboard, e.g., trend charts, cancellations overview.)*
+Check screenshots folder.
 
 ## Results
 - Identified key trends in customer loyalty program behavior.
